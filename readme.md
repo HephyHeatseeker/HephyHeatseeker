@@ -10,7 +10,7 @@
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/96309227?s=400&u=8172df5b599df21c38f4f5c9457898875fbfa739&v=4"  />
  
-<h3 align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Jetpack Compose<br>🎯 Goals: Contributing postively to fields that benefit everyone <br>🎲 Fun fact: I also stream & write</h3>
+<p align="left">✨ Creating bugs since <b>2018<b> <br>📚 I'm currently learning <b>Jetpack Compose<b> <br>🎯 Goals: <b>Contributing postively to fields that benefit everyone<b> <br>🎲 Fun fact: I also <b>stream<b> & <b>write<b></p>
 
 <br>
  
