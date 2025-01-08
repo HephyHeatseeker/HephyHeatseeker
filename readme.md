@@ -1,30 +1,83 @@
-<div align="center">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" align="center" height="" width="600" />
-</div>  
-  
+<h1 align="center">Hi There👋!</h1>
 
-### <div align="center">I'm Hephy, a full-stack & Android developer 👨‍💻 working in Tech since 2022 🚀</div>  
-  
+###
 
-- 🔭 I’m currently working on **Company & personal project**  
-  
+<h3 align="center">I'm a passionate Full Stack / Android developer from Morocco</h3>
 
-- 🌱 I’m currently learning **Android Jetpack Compose**  
-  
+###
 
-- ❓ Ask me about anything related to **AngularJs**, **Machine Learning**, **Kotlin/Java**  
-  
+<br clear="both">
 
-- ⚡ Fun fact: I **Stream** & **Write** often  
-  
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/96309227?s=400&u=8172df5b599df21c38f4f5c9457898875fbfa739&v=4"  />
+ 
+<h3 align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Jetpack Compose<br>🎯 Goals: Contributing postively to fields that benefit everyone <br>🎲 Fun fact: I also stream & write</h3>
 
-<br/>  
+<br>
+ 
+<h2 align="left">Some of my Skill Sets are : </h2>
+ 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+
+
+<h3 align="left">Contact me via :</h3>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+  <a href="linkedin.com/in/yassinesindel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:business.hephy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="ko-fi.com/hephy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/hephyheatseeker/hephyheatseeker/output/snake.svg" alt="Snake animation" />
+
+
+###
+ 
+
+<br clear="both">
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -42,7 +95,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -94,34 +146,13 @@
 </td></tr></table>  
 
 <br/>  
+ 
+###
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/hephyHeatseeker" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/hephyHeatseeker" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/yassinesindel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-<br/>  
+###
 
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hephyheatseeker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="151" alt="languages graph"  />
+</div>
 
-<div align="center">
-            <a href="https://ko-fi.com/hephy" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-
-
-----
-<div align="center">A Big thanks to <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> for the assistance in generating this readme.md file</div>
