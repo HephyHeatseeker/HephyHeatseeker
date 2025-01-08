@@ -67,7 +67,7 @@
 
 ###
 
-![Snake Game](https://github.com/hephyheatseeker/hephyheatseeker/snake.svg)
+![Snake Game]([https://github.com/hephyheatseeker/hephyheatseeker/snake.svg)](https://github.com/hephyheatseeker/hephyheatseeker/snake.svg))
 
 
 ###
