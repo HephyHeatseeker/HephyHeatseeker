@@ -76,7 +76,7 @@
 <br clear="both">
 
 
-## My Skill Set  
+## Going In-depth about my skills :
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
