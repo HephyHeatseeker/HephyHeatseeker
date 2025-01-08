@@ -67,7 +67,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/${{ github.hephyheatseeker }}/hephyheatseeker/output/dist/snake.svg" alt="Snake animation" />
+![Snake Game](https://github.com/hephyheatseeker/hephyheatseeker/snake.svg)
 
 
 ###
