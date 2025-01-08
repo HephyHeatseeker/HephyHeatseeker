@@ -1,0 +1,18 @@
+name: "Snake Game"
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: platane/plt-snake-action@v2
+        with:
+          github_user: hephyheatseeker
+          svg: true
