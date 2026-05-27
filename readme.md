@@ -1,8 +1,8 @@
-<h1 align="center">Hi There👋!</h1>
+<h1 align="center">Hello !</h1>
 
 ###
 
-<h3 align="center">I'm a passionate Full Stack / Android developer from Morocco</h3>
+<h3 align="center">I'm a Full Stack / Motlin Multiplatform & ML engineer from MA.</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/96309227?s=400&u=8172df5b599df21c38f4f5c9457898875fbfa739&v=4"  />
  
-<p align="left">✨ Creating bugs since <b>2018<b> <br>📚 I'm currently learning <b>Jetpack Compose<b> <br>🎯 Goals: <b>Contributing postively to fields that benefit everyone<b> <br>🎲 Fun fact: I also <b>stream<b> & <b>write<b></p>
+<p align="left">✨ Creating bugs since <b>2018<b> <br>📚 I'm currently deploying <b>B2B & B2C solutions<b> <br>🎯 Goals: <b>Contributing postively to fields that benefit everyone<b> <br>🎲 Fun fact: I also <b>stream<b> & <b>write<b></p>
 
 <br>
  
